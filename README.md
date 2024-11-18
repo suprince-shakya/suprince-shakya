@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/suprinceshakya" target="blank"><img src="https://img.shields.io/twitter/follow/suprinceshakya?logo=twitter&style=for-the-badge" alt="suprinceshakya" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [suprinceshakya.com.np](suprinceshakya.com.np)
+- 👨‍💻 All of my projects are available at [suprinceshakya.com.np](https://suprinceshakya.com.np)
 
-- 📝 I regularly write articles on [learninfotech.com](learninfotech.com)
+- 📝 I regularly write articles on [learninfotech.com](https://learninfotech.com)
 
 - 💬 Ask me about **Node, React and Flutter**
 
 - 📫 How to reach me **suprincezzz@gmail.com**
 
-- 📄 Know about my experiences [suprinceshakya.com.np/suprince-shakya-cv/](suprinceshakya.com.np/suprince-shakya-cv/)
+- 📄 Know about my experiences [suprinceshakya.com.np/suprince-shakya-cv/](https://suprinceshakya.com.np/suprince-shakya-cv/)
 
 - ⚡ Fun fact **I am funny**
 
